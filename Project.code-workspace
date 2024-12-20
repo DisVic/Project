@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "Project",
+			"path": "."
+		},
+		{
+			"name": "auth",
+			"path": "../reading_text_from_image/auth"
+		},
+		{
+			"name": "gateway",
+			"path": "../reading_text_from_image/gateway"
+		},
+		{
+			"name": "notifications_service",
+			"path": "../reading_text_from_image/notifications_service"
+		}
+	],
+	"settings": {}
+}
